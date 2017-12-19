@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: "MullerRegular";
+    src: url("http://pozus.io/fonts/MullerRegular/MullerRegular.eot");
+    src: url("http://pozus.io/fonts/MullerRegular/MullerRegular.eot?#iefix")format("embedded-opentype"),
+    url("http://pozus.io/fonts/MullerRegular/MullerRegular.woff") format("woff"),
+    url("http://pozus.io/fonts/MullerRegular/MullerRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerExtrabold";
+    src: url("http://pozus.io/fonts/MullerExtrabold/MullerExtrabold.eot");
+    src: url("http://pozus.io/fonts/MullerExtrabold/MullerExtrabold.eot?#iefix")format("embedded-opentype"),
+    url("http://pozus.io/fonts/MullerExtrabold/MullerExtrabold.woff") format("woff"),
+    url("http://pozus.io/fonts/MullerExtrabold/MullerExtrabold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerBold";
+    src: url("http://pozus.io/fonts/MullerBold/MullerBold.eot");
+    src: url("http://pozus.io/fonts/MullerBold/MullerBold.eot?#iefix")format("embedded-opentype"),
+    url("http://pozus.io/fonts/MullerBold/MullerBold.woff") format("woff"),
+    url("http://pozus.io/fonts/MullerBold/MullerBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerBlack";
+    src: url("http://pozus.io/fonts/MullerBlack/MullerBlack.eot");
+    src: url("http://pozus.io/fonts/MullerBlack/MullerBlack.eot?#iefix")format("embedded-opentype"),
+    url("http://pozus.io/fonts/MullerBlack/MullerBlack.woff") format("woff"),
+    url("http://pozus.io/fonts/MullerBlack/MullerBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerLight";
+    src: url("http://pozus.io/fonts/MullerLight/MullerLight.eot");
+    src: url("http://pozus.io/fonts/MullerLight/MullerLight.eot?#iefix")format("embedded-opentype"),
+    url("http://pozus.io/fonts/MullerLight/MullerLight.woff") format("woff"),
+    url("http://pozus.io/fonts/MullerLight/MullerLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
